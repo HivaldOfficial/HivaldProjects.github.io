@@ -1,0 +1,36 @@
+body {
+  min-height: 3000px;
+}
+
+.navbar-img {
+  margin-right: 10px; /* Memberikan jarak antara gambar dan teks */
+}
+
+.navbar-brand {
+  font-weight: bold; /* Bisa digunakan untuk membuat teks lebih jelas terlihat */
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #dd9bc9;
+}
+
+#skills {
+  background-color: #e7d5e2;
+}
+
+#projects {
+  background-color: #dd9bc9;
+}
+
+#certificate {
+  background-color: #e7d5e2;
+}
+
+.footer {
+  background-color: #dd9bc9;
+}
+
+section {
+  padding-top: 5rem;
+}
